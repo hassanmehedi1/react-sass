@@ -1,7 +1,4 @@
 .mainPage {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
@@ -12,5 +9,15 @@
 
 .mainPage h1 {
   color: #af0202;
+}
+
+.mainPage button {
+  width: 200px;
+  height: 40px;
+  background-color: green;
+  border: none;
+  border-radius: 8px;
+  color: #e8e8e8;
+  font-size: 25px;
 }
 /*# sourceMappingURL=MainPage.css.map */

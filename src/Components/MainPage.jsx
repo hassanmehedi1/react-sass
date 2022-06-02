@@ -6,6 +6,8 @@ const MainPage = () => {
       <div>
          <div className="mainPage">
             <h1>Welcome To The Homepage</h1>
+            <br />
+            <button>Click me</button>
          </div>
       </div>
    );
