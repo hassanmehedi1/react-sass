@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,SAAS,CAAC;EACP,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;CAKrB;;AARD,AAKG,SALM,CAKN,EAAE,CAAC;EACA,KAAK,ECNA,OAAc;CDOrB",
+    "sources": [
+        "MainPage.scss",
+        "../Variables/Variables.scss"
+    ],
+    "names": [],
+    "file": "MainPage.css"
+}
